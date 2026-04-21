@@ -1,0 +1,30 @@
+
+STATEMENT OF LEGAL OWNERSHIP
+I, the undersigned, declare that all code, logic, architecture, and manifests in this directory are original works and the exclusive intellectual property of:
+=======================================================
+=======================================================
+Real Name: Andra Azka Altamis
+display name: FellandZICO
+Country From: Indonesia
+Email: andra.cda@gmail.com(for purposes such as invitations, etc.)
+endorse Email: andra.pryk@gmail.com
+Social Media distribution channels:
+TIKTOK: @OFFICAL.CDA
+YOUTUBE: FELLANDZICO
+
+=======================================================
+=======================================================
+SIGNED: BY FELLANDZICO/ANDRA AZKA
+HASH ID:ed46c9574e97ad0acdb45fbeb1ea3d509f9b7945c98ff6f79997c63bf0942b1d  ./COSMIC.py
+6afa58e18856529bbd7a561ddfd95ca31acd4507bcb3a8ab79c17e5d0d3a844e  ./MANIFEST.txt
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./MANIFEST_HASH.txt
+DATE: Undefined
+=======================================================
+=======================================================
+LEGAL TERMS (RESTRICTED LICENSE):
+Content Prohibitions: Using, uploading, or otherwise using the material in this folder as social media content without the express written permission of the rightful owner is strictly prohibited.
+Responsible Damages: Violations of this copyright will result in a DMCA Takedown and a claim for damages for the illegal use of intellectual property.
+Digital Evidence: This file was created on April 8, 2026, and is recorded in the file system metadata as proof of original source.
+=======================================================
+=======================================================
+
